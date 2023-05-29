@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react_dp/static/css/main.cfba5f59.css",
+    "main.js": "/react_dp/static/js/main.c0ae916c.js",
+    "static/js/787.4750d033.chunk.js": "/react_dp/static/js/787.4750d033.chunk.js",
+    "static/media/logo.svg": "/react_dp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/react_dp/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react_dp/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react_dp/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react_dp/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react_dp/index.html",
+    "main.cfba5f59.css.map": "/react_dp/static/css/main.cfba5f59.css.map",
+    "main.c0ae916c.js.map": "/react_dp/static/js/main.c0ae916c.js.map",
+    "787.4750d033.chunk.js.map": "/react_dp/static/js/787.4750d033.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfba5f59.css",
+    "static/js/main.c0ae916c.js"
+  ]
+}
